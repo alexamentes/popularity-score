@@ -1,0 +1,6 @@
+pip-installable libraries that my project requires:
+
+requests (https://pypi.org/project/requests/)
+tabulate (https://pypi.org/project/tabulate/)
+pytest (https://pypi.org/project/pytest/)
+statistics (https://docs.python.org/3/library/statistics.html)
